@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenZipPOC", "SevenZipPOC.csproj", "{681C47B2-5595-4F45-B0A1-D5B0E2F9519C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681C47B2-5595-4F45-B0A1-D5B0E2F9519C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681C47B2-5595-4F45-B0A1-D5B0E2F9519C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681C47B2-5595-4F45-B0A1-D5B0E2F9519C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681C47B2-5595-4F45-B0A1-D5B0E2F9519C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E39CC38-5EE9-4B90-896C-8E0790648EAB}
+	EndGlobalSection
+EndGlobal
